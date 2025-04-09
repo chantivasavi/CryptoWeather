@@ -11,8 +11,7 @@ Welcome to **CryptoWeather**! This unique application combines real-time cryptoc
 5. [Configuration](#configuration)
 6. [Usage](#usage)
 7. [Contributing](#contributing)
-8. [License](#license)
-9. [Acknowledgements](#acknowledgements)
+8. [Acknowledgements](#acknowledgements)
 
 ## 1. Introduction
 
